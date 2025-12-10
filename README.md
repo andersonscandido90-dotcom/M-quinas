@@ -243,7 +243,7 @@
             <div class="cabecalho">
                 <!-- NOVO: Container do logo e título -->
                 <div class="logo-titulo">
-                    <img src="assets/images/logo.png" alt "Brasão do Navio" class="brasão-navio" id="brasãoNavio">
+                    <img src="logo.png" alt "Brasão do Navio" class="brasão-navio" id="brasãoNavio">
                     <div class="titulo-principal">
                         <h1>Controle de Equipamentos</h1>
                         <div class="subtitulo" id="nomeNavio">Nome do Navio</div>
@@ -357,7 +357,7 @@
             // NOVO: Configuração do navio
             navio: {
                 nome: "NAM ATLÂNTICO - A140", // Altere para o nome do seu navio
-                brasao: "NAM_Atlântico_Badge.jpg"
+                brasao: "logo.png"
             }
         };
 
