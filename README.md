@@ -240,7 +240,6 @@
     <div class="container">
         <header class="secao">
             <div class="cabecalho">
-                <!-- NOVO: Container do logo e título -->
                 <div class="logo-titulo">
                     <img src="logo.png" alt "Brasão do Navio" class="brasão-navio" id="brasãoNavio">
                     <div class="titulo-principal">
